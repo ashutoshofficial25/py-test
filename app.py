@@ -10,5 +10,3 @@ def greet():
 greet()
 
 print("Temporary work")
-
-print("Incorrect logic")
